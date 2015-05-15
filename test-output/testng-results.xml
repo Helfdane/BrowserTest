@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78" started-at="2015-05-15T09:19:38Z" finished-at="2015-05-15T09:19:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78" started-at="2015-05-15T09:19:38Z" finished-at="2015-05-15T09:19:38Z">
+      <class name="BrowserTest">
+        <test-method status="PASS" signature="testPrintMessage()[pri:0, instance:BrowserTest@6d000502]" name="testPrintMessage" duration-ms="35" started-at="2015-05-15T12:19:38Z" finished-at="2015-05-15T12:19:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrintMessage -->
+      </class> <!-- BrowserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
